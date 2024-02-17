@@ -1,1 +1,1 @@
-# discussion-with-experts
+# Discussion with (virtual) 'experts'
