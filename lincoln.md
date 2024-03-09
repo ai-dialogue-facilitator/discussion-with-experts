@@ -1,6 +1,6 @@
 # Lincoln's Apocrypha
 The initial prompt posted through the web-interface of ChatGPT was:
-![initia_prompt](./img/Screenshot from 2024-03-09 15-14-06.png).
+![initial_prompt](/img/initial_prompt_screenshot.png).
 **Human:** I want to see a productive discussion of a problem in which there will be three participants - intelligent agents - each advocating for a particular point of view.
 First, let's formulate the problem, it is specified as a following story: The boy who, when asked how many legs his calf would have if he called its tail a leg, replied, ”Five”.
 Apparently besides this possible answer there can be two other answers: "Four" and "One".
