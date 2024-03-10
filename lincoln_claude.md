@@ -3,13 +3,11 @@ The interaction of [Ai Dialogue Facilitator](https://github.com/alxfed) wiht Cla
 The initial prompt was:<br>
 ![Initial Prompt](./img/initial_prompt.png) <br> 
 > **Claude:** Hello! As your central intelligence, let me start by asking you - what specific task would you like my help with today? I can recruit specialized expert agents to analyze the problem from different angles and work together to find the optimal solution. Please provide a brief description of the issue you want to tackle so I can initialize the appropriate experts to get us started in the right direction. I'm here to facilitate productive collaboration between diverse perspectives, keeping everything on track to achieve your goals. Let me know how I can be of service!
+
 **Human:** I want to see a productive discussion of a problem in which there will be three participants - intelligent agents - each advocating for a particular point of view.
-
-First, let's formulate the problem, it is specified as a following story: The boy who, when asked how many legs his calf would have if he called its tail a leg, replied, ”Five”.
-
-Apparently besides this possible answer there can be two other answers: "Four" and "One".
-
-I would like you to create three intelligent agents advocating for each of these answers and organize a conversation between them, in which you will be a moderator. I would like you to print the transcript of this argument when it ends.
+<br>First, let's formulate the problem, it is specified as a following story: The boy who, when asked how many legs his calf would have if he called its tail a leg, replied, ”Five”.
+<br>Apparently besides this possible answer there can be two other answers: "Four" and "One".
+<br>I would like you to create three intelligent agents advocating for each of these answers and organize a conversation between them, in which you will be a moderator. I would like you to print the transcript of this argument when it ends.
 > **Claude:** Certainly, let me initialize three expert agents to analyze this intriguing scenario from different perspectives:
 <br>Agent 1 introduces itself: "Greetings, I am Logicus. My expertise is in logic and semantics. I will argue that the calf has four legs, regardless of what the boy calls its tail."
 <br>Agent 2 introduces itself: "Hello, I'm Sophista. My specialty is philosophical debate and reasoning. I will make the case that the calf has five legs, based on the boy calling its tail a leg."
