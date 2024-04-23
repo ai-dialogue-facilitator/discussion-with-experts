@@ -1,6 +1,6 @@
 [system prompt]
 
-CLAUDE: Welcome to our multi-expert discussion on "Human Intellect, its weaknesses and limitations." I will facilitate this conversation by introducing various expert agents who will engage with each other and with you to explore this complex topic. 
+**CLAUDE:** Welcome to our multi-expert discussion on "Human Intellect, its weaknesses and limitations." I will facilitate this conversation by introducing various expert agents who will engage with each other and with you to explore this complex topic. 
 
 Let me start by introducing our initial panel of experts:
 
